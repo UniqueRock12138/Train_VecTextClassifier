@@ -1,7 +1,9 @@
 # 基于深度学习和词向量训练文本分类模型
 说明：  
+`dataset.zip`: 数据集压缩包，要进行解压。因为数据集AG_NEWS可能无法通过代码下载，所以先手动下载。  
 `train.py`: 训练模型  
 `predict.py`: 模型预测  
+
 
 ### 1 数据集：AG_NEWS
 <img src="https://github.com/UniqueRock12138/train_TextClassificationModel/blob/7960d3aa169514803555943f3e053f71131bdccd/README/image03.png" width="400px">
